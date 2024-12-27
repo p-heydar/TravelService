@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZ2KyOhAu0I=",
+  "success": true,
+  "projectFilePath": "R:\\Projects\\GitHub\\Travel As A Service\\Travel\\Travel\\Travel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pouya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Pouya\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\Pouya\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Pouya\\.nuget\\packages\\neo4j.driver\\5.27.0\\neo4j.driver.5.27.0.nupkg.sha512",
+    "C:\\Users\\Pouya\\.nuget\\packages\\scalar.aspnetcore\\1.2.72\\scalar.aspnetcore.1.2.72.nupkg.sha512",
+    "C:\\Users\\Pouya\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\Pouya\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
